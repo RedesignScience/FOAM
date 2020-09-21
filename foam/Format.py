@@ -29,8 +29,7 @@ class FOAMTrajectoryFile(HDF5TrajectoryFile):
 
         Returns
         -------
-        topology : mdtraj.Topology
-            A parmed.Structure() object
+        topology : parmed.Structure() object
         """
 
         try:
