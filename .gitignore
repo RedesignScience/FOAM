@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Test Trajectory and Topology files
+.pickle
+.h5
+.ft
+.fm
+
 # Distribution / packaging
 .Python
 build/
