@@ -9,7 +9,7 @@ Package for performing adaptive sampling of biomolecular systems
 
 ### Copyright
 
-Copyright (c) 2021, Rob Arbon
+Copyright (c) 2021, Redesign Science
 
 
 #### Acknowledgements
